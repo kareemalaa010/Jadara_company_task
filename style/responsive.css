@@ -632,6 +632,9 @@
         height: 300px;
     }
     /* about */
+    .about{
+        margin-bottom:50px;
+    }
     .about .cont{
         display: flex;
         align-items: center;
