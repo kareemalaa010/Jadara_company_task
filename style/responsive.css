@@ -512,6 +512,7 @@
 @media (max-width: 576px) {
     .promo {
         padding: 40px 15px;
+        margin-bottom:150px;
     }
     .promo .right h1 {
         font-size: 28px;
@@ -566,6 +567,7 @@
         width: 400px;
         height: 500px;
         margin-bottom: 150px;
+        margin-top:150px;
     }
     /* conatct */
     .contact .left{
@@ -625,6 +627,9 @@
 
 @media (max-width: 480px) {
     /* promo  */
+    .promo{
+        margin-bottom:150px;
+    }
     .promo .left .p1{
         height: 350px;
     }
