@@ -693,6 +693,9 @@
         width: 300px;
     }
     /* opin */
+    .opin{
+        margin-bottom:70px;
+    }
     .opin .intro_opin .one{
         margin-top: 40px;
         font-size: 25px;
