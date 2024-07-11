@@ -658,7 +658,7 @@
     .about .cont .right .p{
         height: 330px;
         margin-top: 50px;
-        margin-bottom: 140px;
+        margin-bottom: 150px;
     }
     /* adv */
     .cont{
@@ -667,7 +667,7 @@
         align-items: center;
     }
     .adv{
-        margin-top:150px;
+        margin-top:170px;
     }
     .adv .intro_adv .one {
         font-size: 24px;
