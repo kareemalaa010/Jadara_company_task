@@ -672,6 +672,7 @@
         align-items: center;
     }
     .adv{
+        height:120vh;
         margin-top:170px;
     }
     .adv .intro_adv .one {
@@ -699,7 +700,7 @@
     }
     /* opin */
     .opin{
-        margin-bottom:130px;
+        margin-bottom:150px;
     }
     .opin .intro_opin .one{
         margin-top: 40px;
