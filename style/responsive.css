@@ -632,9 +632,6 @@
         height: 300px;
     }
     /* about */
-    .about{
-        margin-bottom:50px;
-    }
     .about .cont{
         display: flex;
         align-items: center;
@@ -661,7 +658,7 @@
     .about .cont .right .p{
         height: 330px;
         margin-top: 50px;
-        margin-bottom: 20px;
+        margin-bottom: 100px;
     }
     /* adv */
     .cont{
@@ -697,7 +694,7 @@
     }
     /* opin */
     .opin{
-        margin-bottom:100px;
+        margin-bottom:130px;
     }
     .opin .intro_opin .one{
         margin-top: 40px;
