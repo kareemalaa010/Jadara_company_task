@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $(".owl-carousel").owlCarousel({
+    $(".carousel").owlCarousel({
         items: 3,  
         loop: true,
         margin: 5,     
@@ -11,22 +11,28 @@ $(document).ready(function(){
         animateIn: 'slideInRight',
         responsive: {
             0: {
-                items: 1 
+                items: 1 ,
+                nav:false
             },
             480: {
-                items: 1  
+                items: 1 ,
+                nav:false 
             },
             600: {
-                items: 2   
+                items: 2 ,
+                nav:false  
             },
             768: {
-                items: 2
+                items: 2,
+                nav:false
             },
             1024: {
-                items: 3
+                items: 3,
+                nav:false
             },
             1200: {
-                items: 4
+                items: 3,
+                nav:false
             }
         }
     });
