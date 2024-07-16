@@ -721,6 +721,7 @@
         width: 250px;
         height: 350px;
         margin-top: 40px;
+        margin-right: 50px;
     }
     /* down */
     .down{
@@ -745,6 +746,7 @@
         align-items: center;
         justify-content: center;
         gap: 10px;
+        margin-right: 20px;
     }
     /* contact us */
     .contact .left{
@@ -818,7 +820,7 @@
 }
 @media(max-width: 375px){
     .about{
-        margin: 200px 0px;
+        margin: 220px 0px;
     }
     .about .cont .right .p{
         height: 300px;
